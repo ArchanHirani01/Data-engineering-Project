@@ -76,4 +76,4 @@ Thumbs.db
 htmlcov/
 
 # Spark
-spark-warehouse/
+spark-warehouse
