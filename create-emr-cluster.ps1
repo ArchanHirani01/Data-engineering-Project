@@ -2,7 +2,7 @@
 # Run these commands step by step after updating IAM permissions
 
 Write-Host " NYC TAXI EMR CLUSTER CREATION SCRIPT" -ForegroundColor Green
-Write-Host "=======================================" -ForegroundColor Green
+Write-Host "======================================" -ForegroundColor Green
 
 # Step 1: Test EMR permissions
 Write-Host "`n1️ Testing EMR permissions..." -ForegroundColor Yellow
