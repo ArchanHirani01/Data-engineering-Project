@@ -9,7 +9,7 @@
 - **Use Case**: Transportation analytics, demand forecasting
 - **ML Applications**: Fare prediction, route optimization, demand patterns
 - **Kaggle Link**: Search "NYC Taxi Trip Data"
-- **Why Good**: Clean data, real business value, clear temporal patterns
+- **Why Good**: Clean data, real business value, clear temporal patterns.
 
 ### 2. **Stock Market Data (Multiple Years)**
 - **Source**: Various financial APIs
